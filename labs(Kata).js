@@ -83,4 +83,4 @@ function positiveSum(arr) {
 }
 
 const h1 = document.getElementById('answr');
-h1.textContent = getCount('tdafeeee');
+h1.textContent = MaxAndMin('5');
