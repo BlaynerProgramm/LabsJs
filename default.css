@@ -1,0 +1,9 @@
+table{
+    background: aliceblue;
+    align-content: center;
+    font-family: "Agency FB", cursive;
+    border-top-width: 2cm;
+    border-right-width: 2cm;
+    border-left-width: 2cm;
+    border-bottom-width: 2cm;
+}
