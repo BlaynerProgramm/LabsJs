@@ -28,6 +28,7 @@ function deletePeople(){
     }
 }
 function showPeopleDb(){
+    divText.textContent = '';
     peopleDb.forEach(x => {
         divText.textContent += `${x.name} ${x.age}\n`;
     });
